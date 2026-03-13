@@ -1,0 +1,769 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How would you improve the decision time for users when ordering from food delivery apps like Swiggy?",
+      "company": "Swiggy",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "solved_on": "2026-03-03",
+      "source": "Interview Query / NextLeap"
+    },
+    {
+      "id": 2,
+      "question": "As a PM at Swiggy, if you observed a 20% decrease in orders last week, how would you conduct a Root Cause Analysis?",
+      "company": "Swiggy",
+      "category": "Analytical/Execution",
+      "difficulty": "Hard",
+      "solved_on": "2026-03-03",
+      "source": "NextLeap"
+    },
+    {
+      "id": 3,
+      "question": "Should Zomato allow users to order from multiple restaurants in a single order? If so, how would you implement it? If not, why?",
+      "company": "Zomato",
+      "category": "Product Sense/Design",
+      "difficulty": "Medium",
+      "solved_on": "2026-03-03",
+      "source": "Scribd"
+    },
+    {
+      "id": 4,
+      "question": "How would you understand why the lunch conversion rate is low (e.g., 2% compared to 10% for dinner and breakfast)?",
+      "company": "Zomato",
+      "category": "Metrics/Analytical",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "YouTube Case Study"
+    },
+    {
+      "id": 5,
+      "question": "Assume Flipkart wants to enter the food delivery business. How would you integrate food delivery into the current Flipkart app?",
+      "company": "Flipkart",
+      "category": "Strategy/Product Sense",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "MyPMInterview"
+    },
+    {
+      "id": 6,
+      "question": "Design a lost and retrieval system for Ola Cabs.",
+      "company": "Ola",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "NextLeap"
+    },
+    {
+      "id": 7,
+      "question": "How do you define a product vision for a payment API at Razorpay, and what steps do you take to ensure it aligns with business objectives?",
+      "company": "Razorpay",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Interview Query"
+    },
+    {
+      "id": 8,
+      "question": "Design a fitness app for Meta.",
+      "company": "Meta",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "IGotAnOffer"
+    },
+    {
+      "id": 9,
+      "question": "Define success metrics for TikTok (or Reels).",
+      "company": "Meta/TikTok",
+      "category": "Metrics",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "TryExponent"
+    },
+    {
+      "id": 10,
+      "question": "How would you increase customer lifetime value for Swiggy?",
+      "company": "Swiggy",
+      "category": "Growth/Strategy",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "Interview Query"
+    },
+    {
+      "id": 11,
+      "question": "Improve Facebook (or any core social feature).",
+      "company": "Meta",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "IGotAnOffer"
+    },
+    {
+      "id": 12,
+      "question": "If Amazon were losing 10% of its revenue monthly, what metrics would you look into?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "MyPMInterview"
+    },
+    {
+      "id": 13,
+      "question": "Design an app for an amusement park.",
+      "company": "Google/Generic",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "TryExponent"
+    },
+    {
+      "question": "What\u2019s your favorite Microsoft product and how would you improve it?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 14,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about yourself.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 15,
+      "solved_on": null
+    },
+    {
+      "question": "Why Microsoft?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 16,
+      "solved_on": null
+    },
+    {
+      "question": "Why do you want to do product management?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 17,
+      "solved_on": null
+    },
+    {
+      "question": "Why do you want this job, and what can you bring that we don't already have?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 18,
+      "solved_on": null
+    },
+    {
+      "question": "Explain the PM position to someone who doesn't get it.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 19,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time when you had to work through a problem with a teammate.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 20,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time when you faced conflict within a team and how you dealt with it.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 21,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a product you led from idea to launch.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 22,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about the most challenging product you\u2019ve worked on.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 23,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you failed.",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 24,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about big-budget projects you\u2019ve worked on. How do you ensure that you work within budget?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 25,
+      "solved_on": null
+    },
+    {
+      "question": "What\u2019s the biggest risk you\u2019ve taken in managing a project?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 26,
+      "solved_on": null
+    },
+    {
+      "question": "How do you know what your customers want?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 27,
+      "solved_on": null
+    },
+    {
+      "question": "How do you get people to agree with your point of view?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 28,
+      "solved_on": null
+    },
+    {
+      "question": "How can a product manager influence without being authoritative?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 29,
+      "solved_on": null
+    },
+    {
+      "question": "If you want to get something built, how will you influence the developers to build it and the senior leadership to agree with this idea?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 30,
+      "solved_on": null
+    },
+    {
+      "question": "In working with teams, what is an achievement that you are most proud of?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 31,
+      "solved_on": null
+    },
+    {
+      "question": "How do you manage a project where you need to scale up and then scale down frequently?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 32,
+      "solved_on": null
+    },
+    {
+      "question": "How do you keep track of multiple tasks?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 33,
+      "solved_on": null
+    },
+    {
+      "question": "Design an elevator system.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 34,
+      "solved_on": null
+    },
+    {
+      "question": "How would you design an alarm clock for the hard of hearing?",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 35,
+      "solved_on": null
+    },
+    {
+      "question": "How would you design a washing machine?",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 36,
+      "solved_on": null
+    },
+    {
+      "question": "Design a 3-button remote for a television.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 37,
+      "solved_on": null
+    },
+    {
+      "question": "Design a vending machine to be located at an airport gate.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 38,
+      "solved_on": null
+    },
+    {
+      "question": "Design a kitchen.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 39,
+      "solved_on": null
+    },
+    {
+      "question": "Design a microwave oven for college students.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 40,
+      "solved_on": null
+    },
+    {
+      "question": "Design a product for campus recruitment.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 41,
+      "solved_on": null
+    },
+    {
+      "question": "Thinking of a product you\u2019ve started using a lot lately and considering how to improve the user experience, draw out a new UI/UX.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 42,
+      "solved_on": null
+    },
+    {
+      "question": "Design the UI/UX for Disney\u2019s new streaming platform.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 43,
+      "solved_on": null
+    },
+    {
+      "question": "Design the most engaging user interface for a music app that you can think of.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 44,
+      "solved_on": null
+    },
+    {
+      "question": "How would you design a Microsoft cell phone?",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 45,
+      "solved_on": null
+    },
+    {
+      "question": "A new building owner wants an elevator to be constructed. What are some of the questions you will ask them or the factors you will consider before you give them the final recommendation?",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 46,
+      "solved_on": null
+    },
+    {
+      "question": "If you were to design an app for selling and buying antiques, how would you do it?",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 47,
+      "solved_on": null
+    },
+    {
+      "question": "What\u2019s your favorite product, and how would you improve it?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 48,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve a past project you worked on?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 49,
+      "solved_on": null
+    },
+    {
+      "question": "Choose a popular product in the market. How would you improve it?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 50,
+      "solved_on": null
+    },
+    {
+      "question": "What\u2019s your favorite product, and why? How would you improve it?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 51,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve a specific product line if the goal is to acquire new users?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 52,
+      "solved_on": "2026-03-14"
+    },
+    {
+      "question": "Choose a relevant app you use. What would you improve? Why?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 53,
+      "solved_on": null
+    },
+    {
+      "question": "How would you add food ordering to Excel?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Hard",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 54,
+      "solved_on": null
+    },
+    {
+      "question": "Imagine you\u2019re a PM at a startup that works with big data. Now what?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 55,
+      "solved_on": null
+    },
+    {
+      "question": "If you were a PM on Microsoft Surface and Delta asked you to design the perfect airline entertainment system, what would you do? Walk through your thoughts and pitch it.",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 56,
+      "solved_on": null
+    },
+    {
+      "question": "How would you monetize Outlook?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 57,
+      "solved_on": null
+    },
+    {
+      "question": "Take any production chain; how can you optimize the production process?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 58,
+      "solved_on": null
+    },
+    {
+      "question": "How would you motivate users to use your app every single day for a month?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 59,
+      "solved_on": null
+    },
+    {
+      "question": "You are the king of an island. You want to switch which side of the road everyone is driving on. How do you go about doing it?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 60,
+      "solved_on": null
+    },
+    {
+      "question": "How would you define a product strategy for a new AI-powered productivity tool?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 61,
+      "solved_on": null
+    },
+    {
+      "question": "Choose a target customer to build an MLP (minimum loveable product) for. Brainstorm multiple features to add to this to scale the product over time.",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 62,
+      "solved_on": null
+    },
+    {
+      "question": "How would you assess whether or not to discontinue a product?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 63,
+      "solved_on": null
+    },
+    {
+      "question": "How would you explain Cloud to your grandmother?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 64,
+      "solved_on": null
+    },
+    {
+      "question": "How would you explain recursion to somebody who is not technical?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 65,
+      "solved_on": null
+    },
+    {
+      "question": "What product KPIs have you used, and how did they help you in managing products?",
+      "company": "Microsoft",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 66,
+      "solved_on": null
+    },
+    {
+      "question": "What are the key metrics to track at each stage of a product's lifecycle?",
+      "company": "Microsoft",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 67,
+      "solved_on": null
+    },
+    {
+      "question": "How would you conduct a competitive analysis for a new cloud-based gaming service?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 68,
+      "solved_on": null
+    },
+    {
+      "question": "Describe a time when you had to make a difficult decision based on incomplete data. How did you approach the situation?",
+      "company": "Microsoft",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 69,
+      "solved_on": null
+    },
+    {
+      "question": "How would you track user engagement in an app, and what KPIs would you use to improve it?",
+      "company": "Microsoft",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 70,
+      "solved_on": null
+    },
+    {
+      "question": "What metrics would you use to measure success for Microsoft Outlook?",
+      "company": "Microsoft",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 71,
+      "solved_on": null
+    },
+    {
+      "question": "How would you set goals for a Microsoft product of your choice?",
+      "company": "Microsoft",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 72,
+      "solved_on": null
+    },
+    {
+      "question": "For products like Windows, there are millions of customers; how do you test for all?",
+      "company": "Microsoft",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 73,
+      "solved_on": null
+    },
+    {
+      "question": "How much money do Americans spend on cat food every year?",
+      "company": "Microsoft",
+      "category": "Estimation",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 74,
+      "solved_on": null
+    },
+    {
+      "question": "How would you go about estimating the number of gas stations in the USA?",
+      "company": "Microsoft",
+      "category": "Estimation",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 75,
+      "solved_on": null
+    },
+    {
+      "question": "How would you weigh a plane without a scale, but other tools at your disposal?",
+      "company": "Microsoft",
+      "category": "Estimation",
+      "difficulty": "Hard",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 76,
+      "solved_on": null
+    },
+    {
+      "question": "There are 24 holes in the key. How many combinations of passwords can you think of?",
+      "company": "Microsoft",
+      "category": "Estimation",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 77,
+      "solved_on": null
+    },
+    {
+      "question": "Describe your product framework for prioritization.",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 78,
+      "solved_on": null
+    },
+    {
+      "question": "How do you prioritize work items?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 79,
+      "solved_on": null
+    },
+    {
+      "question": "How would you prioritize features for a product with limited resources and a tight deadline?",
+      "company": "Microsoft",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+      "id": 80,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve Google Maps?",
+      "company": "Google",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/",
+      "id": 81,
+      "solved_on": null
+    },
+    {
+      "question": "Calculate the number of queries answered by Google per second.",
+      "company": "Google",
+      "category": "Estimation",
+      "difficulty": "Hard",
+      "source": "https://www.productmanagementexercises.com/",
+      "id": 82,
+      "solved_on": null
+    },
+    {
+      "question": "What is your favorite product? Why?",
+      "company": "Multiple",
+      "category": "Product Design",
+      "difficulty": "Easy",
+      "source": "https://www.productmanagementexercises.com/",
+      "id": 83,
+      "solved_on": null
+    },
+    {
+      "question": "How would you measure the success of Facebook Likes?",
+      "company": "Meta (Facebook)",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/",
+      "id": 84,
+      "solved_on": null
+    },
+    {
+      "question": "How do you say no to feature ideas or requests?",
+      "company": "Multiple",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/",
+      "id": 85,
+      "solved_on": null
+    }
+  ]
+}
