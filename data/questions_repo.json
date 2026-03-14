@@ -1484,6 +1484,51 @@
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
       "id": 165,
       "solved_on": null
+    },
+    {
+      "question": "What was the strategic rationale behind Facebook's rebranding to Meta, and what product opportunities does this open up for the company?",
+      "company": "Meta",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://www.zhihu.com/tardis/bd/art/427082716",
+      "id": 166,
+      "solved_on": null
+    },
+    {
+      "question": "Meta envisions the metaverse as a 'physicalized internet' where users can experience rather than just watch. Describe a new product or feature you would design for this metaverse that doesn't exist on current platforms, outlining its core functionality and user benefits.",
+      "company": "Meta",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.zhihu.com/tardis/bd/art/427082716",
+      "id": 167,
+      "solved_on": null
+    },
+    {
+      "question": "Meta plans to sell its devices at cost or subsidized and offer developer services with low fees to foster an open and accessible metaverse economy. What potential business challenges and risks do you foresee with this strategy, and how would you mitigate them?",
+      "company": "Meta",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://www.zhihu.com/tardis/bd/art/427082716",
+      "id": 168,
+      "solved_on": null
+    },
+    {
+      "question": "Privacy, safety, open standards, and interoperability are highlighted as crucial for the metaverse from day one. As a Product Manager, how would you ensure these principles are embedded into the core design and development of a new metaverse product?",
+      "company": "Meta",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.zhihu.com/tardis/bd/art/427082716",
+      "id": 169,
+      "solved_on": null
+    },
+    {
+      "question": "Meta's mission remains 'to bring people together,' and the metaverse is the next frontier for connection. How would you evolve an existing Meta product (e.g., Instagram, WhatsApp, Messenger) to be 'metaverse-first' and enhance social connection within this new paradigm?",
+      "company": "Meta",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.zhihu.com/tardis/bd/art/427082716",
+      "id": 170,
+      "solved_on": null
     }
   ]
 }
