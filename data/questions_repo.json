@@ -764,6 +764,726 @@
       "source": "https://www.productmanagementexercises.com/",
       "id": 85,
       "solved_on": null
+    },
+    {
+      "question": "How would you approach the task of developing a new product within Amazon\u2019s existing ecosystem?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 86,
+      "solved_on": null
+    },
+    {
+      "question": "Can you discuss a time where you had to make a critical decision about a product\u2019s life cycle?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 87,
+      "solved_on": null
+    },
+    {
+      "question": "What strategies would you use to manage stakeholder expectations in a high-stakes project?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 88,
+      "solved_on": null
+    },
+    {
+      "question": "Given your understanding of Amazon\u2019s customer base, how would you prioritize features for a new product launch?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 89,
+      "solved_on": null
+    },
+    {
+      "question": "Suppose there is a conflict between engineering and marketing teams on a product feature, how would you resolve it?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 90,
+      "solved_on": null
+    },
+    {
+      "question": "Please explain how you have used data to drive product development decisions.",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 91,
+      "solved_on": null
+    },
+    {
+      "question": "Describe a scenario where you led a cross-functional team in launching a product.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 92,
+      "solved_on": null
+    },
+    {
+      "question": "Based on what you know about Amazon\u2019s operations, how would you handle a product recall situation?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 93,
+      "solved_on": null
+    },
+    {
+      "question": "If a key product is underperforming, how would you identify the root cause and propose solutions?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 94,
+      "solved_on": null
+    },
+    {
+      "question": "Can you describe a time when you successfully managed a product backlog?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 95,
+      "solved_on": null
+    },
+    {
+      "question": "How would you ensure that a newly launched product aligns with Amazon\u2019s brand identity and values?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 96,
+      "solved_on": null
+    },
+    {
+      "question": "How do you stay updated with market trends and consumer needs relevant to Amazon\u2019s offerings?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 97,
+      "solved_on": null
+    },
+    {
+      "question": "With respect to Amazon\u2019s global reach, can you talk about an experience managing a product in different markets?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 98,
+      "solved_on": null
+    },
+    {
+      "question": "Discuss a time when you had to pivot a product strategy due to unforeseen circumstances.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 99,
+      "solved_on": null
+    },
+    {
+      "question": "Imagine one of our products received negative feedback from customers, how would you incorporate this feedback into future iterations?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 100,
+      "solved_on": null
+    },
+    {
+      "question": "Can you outline your process for conducting competitive analysis in relation to Amazon\u2019s position in the market?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 101,
+      "solved_on": null
+    },
+    {
+      "question": "Explain how you would collaborate with UX/UI designers to enhance user experience on an Amazon product.",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 102,
+      "solved_on": null
+    },
+    {
+      "question": "Share an instance where you utilized A/B testing to improve a product\u2019s performance.",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 103,
+      "solved_on": null
+    },
+    {
+      "question": "How would you balance resource constraints while ensuring product quality at Amazon?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 104,
+      "solved_on": null
+    },
+    {
+      "question": "Talk about a time when you faced a significant product-related challenge and how you overcame it.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 105,
+      "solved_on": null
+    },
+    {
+      "question": "How do you approach risk management when overseeing the development of new products?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 106,
+      "solved_on": null
+    },
+    {
+      "question": "Can you share an example where you had to manage a trade-off between product functionality and cost?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+      "id": 107,
+      "solved_on": null
+    },
+    {
+      "question": "A metric for a video streaming service dropped by 80%. What do you do?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 108,
+      "solved_on": null
+    },
+    {
+      "question": "Your new feature boosts Amazon Search by 10%, adds 2s to load time. What do you do?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 109,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve Amazon?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 110,
+      "solved_on": null
+    },
+    {
+      "question": "How would you launch (roll out) Amazon Go?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 111,
+      "solved_on": null
+    },
+    {
+      "question": "Evaluate the upsides and downsides of building a super app \u2014 an app having all major B2C features including entertainment, e-commerce, food ordering, hotel booking, cab booking, chat, holiday planning, gaming, med ordering, service booking, etc.",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 112,
+      "solved_on": null
+    },
+    {
+      "question": "How would you determine if a specific block in your neighborhood is suitable for a new grocery store?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 113,
+      "solved_on": null
+    },
+    {
+      "question": "How would you sell live plants on Amazon?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 114,
+      "solved_on": null
+    },
+    {
+      "question": "You are a new PM at Google Pay. Design a feature for budgeting.",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 115,
+      "solved_on": null
+    },
+    {
+      "question": "Imagine you are a PM in Amazon. How would you reduce the rate of returns?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 116,
+      "solved_on": null
+    },
+    {
+      "question": "For a retail store, users are frequently complaining about long queues during check out. What strategy would you use to improve the experience in the short term and long term?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 117,
+      "solved_on": null
+    },
+    {
+      "question": "What is the market size of toilet paper in the US?",
+      "company": "Amazon",
+      "category": "Estimation",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 118,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out. Who did you talk with and what information proved most valuable? How did you use that information to help solve the problem?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 119,
+      "solved_on": null
+    },
+    {
+      "question": "Amazon is developing a machine learning algorithm to better target shoppers who have saved items in their shopping carts. The algorithm will send an email to users to remind them about their shopping carts. What factors would you consider when designing this algorithm? What variables would you tweak to yield higher shopping cart purchase rates?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 120,
+      "solved_on": null
+    },
+    {
+      "question": "Explain some new Alexa Skillsets you would roll out and why.",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 121,
+      "solved_on": null
+    },
+    {
+      "question": "Why should Amazon not hire you?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 122,
+      "solved_on": null
+    },
+    {
+      "question": "Design a simple load balancer for Google.com. What data structures would you use?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
+      "id": 123,
+      "solved_on": null
+    },
+    {
+      "question": "Walk me through a product you\u2019ve built and launched.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 124,
+      "solved_on": null
+    },
+    {
+      "question": "How do you prioritize features when stakeholders disagree?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 125,
+      "solved_on": null
+    },
+    {
+      "question": "How would you design a new shopping experience for Prime members?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 126,
+      "solved_on": null
+    },
+    {
+      "question": "How would you validate an idea for a new Amazon device before building it?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 127,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve the Alexa experience for households with multiple users?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 128,
+      "solved_on": null
+    },
+    {
+      "question": "If Amazon wanted to expand further into physical retail, what problem would you solve first?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 129,
+      "solved_on": null
+    },
+    {
+      "question": "How do you decide what not to build?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 130,
+      "solved_on": null
+    },
+    {
+      "question": "How would you forecast next quarter\u2019s revenue for a major Amazon product line?",
+      "company": "Amazon",
+      "category": "Estimation",
+      "difficulty": "Hard",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 131,
+      "solved_on": null
+    },
+    {
+      "question": "How would you determine the success of a new feature on Amazon Prime Video?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 132,
+      "solved_on": null
+    },
+    {
+      "question": "What metrics would you track to evaluate the effectiveness of Amazon\u2019s recommendation engine?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 133,
+      "solved_on": null
+    },
+    {
+      "question": "How would you identify and fix a drop in conversion rate after a major site redesign?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Hard",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 134,
+      "solved_on": null
+    },
+    {
+      "question": "Which products should Amazon discount during Prime Day to maximize profit?",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 135,
+      "solved_on": null
+    },
+    {
+      "question": "Why do you want to work at Amazon, and what makes you a good fit?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 136,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you made a difficult prioritization decision.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 137,
+      "solved_on": null
+    },
+    {
+      "question": "Describe a time you disagreed with a stakeholder. How did you resolve it?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 138,
+      "solved_on": null
+    },
+    {
+      "question": "Talk about a time you failed and what you learned from it.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 139,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you demonstrated ownership beyond your role.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 140,
+      "solved_on": null
+    },
+    {
+      "question": "What would your current manager say about you? What constructive criticisms might he give?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 141,
+      "solved_on": null
+    },
+    {
+      "question": "What are your three biggest strengths and weaknesses you have identified in yourself?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
+      "id": 142,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time when you went above and beyond to meet a customer\u2019s needs.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 143,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time when you took full responsibility for a product\u2019s success or failure.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 144,
+      "solved_on": null
+    },
+    {
+      "question": "Describe a project where you set a goal and met it. What steps did you take to ensure success?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 145,
+      "solved_on": null
+    },
+    {
+      "question": "Can you give an example of when you simplified a complex problem for your team?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 146,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time when you helped someone on your team grow in their role.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 147,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you had to dive deep into data to solve a problem.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 148,
+      "solved_on": null
+    },
+    {
+      "question": "Describe a situation where you disagreed with a decision but committed to it for the team\u2019s success.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 149,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time when you helped improve your team\u2019s environment or culture.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 150,
+      "solved_on": null
+    },
+    {
+      "question": "Give an example of a time when you delivered results with limited resources.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 151,
+      "solved_on": null
+    },
+    {
+      "question": "Can you share an example of a project where you set a target and achieved it? What did you do to ensure success?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 152,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you demonstrated customer obsession in a project.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 153,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve a product based on customer feedback?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 154,
+      "solved_on": null
+    },
+    {
+      "question": "Explain a time when you had to scale a product.",
+      "company": "Amazon",
+      "category": "Strategy",
+      "difficulty": "Hard",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 155,
+      "solved_on": null
+    },
+    {
+      "question": "How would you measure customer satisfaction for a new feature?",
+      "company": "Amazon",
+      "category": "Metrics/Analytical",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 156,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve Amazon Prime Video?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Hard",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 157,
+      "solved_on": null
+    },
+    {
+      "question": "Describe a product design challenge you\u2019ve faced.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 158,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you made a decision that affected multiple teams.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 159,
+      "solved_on": null
+    },
+    {
+      "question": "How do you ensure your decisions are based on data?",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 160,
+      "solved_on": null
+    },
+    {
+      "question": "Tell me about a time you demonstrated customer obsession.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 161,
+      "solved_on": null
+    },
+    {
+      "question": "Give an example of when you had to make a calculated risk in a product decision.",
+      "company": "Amazon",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 162,
+      "solved_on": null
+    },
+    {
+      "question": "How would you improve Amazon\u2019s checkout process?",
+      "company": "Amazon",
+      "category": "Product Improvement",
+      "difficulty": "Hard",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 163,
+      "solved_on": null
+    },
+    {
+      "question": "How would you design a new feature for Amazon Prime Video?",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 164,
+      "solved_on": null
+    },
+    {
+      "question": "Explain how you would design a scalable web service architecture for a new Amazon product.",
+      "company": "Amazon",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
+      "id": 165,
+      "solved_on": null
     }
   ]
 }

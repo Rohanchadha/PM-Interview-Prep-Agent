@@ -4,6 +4,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from google import genai
+from duckduckgo_search import DDGS
 from src.researcher import load_repo, add_questions
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -102,12 +103,49 @@ def deduplicate(new_questions, existing_questions):
     return unique
 
 
-def scrape_and_add_questions(urls_with_hints=None):
+def search_for_urls(company: str, num_results: int = 7) -> list:
+    """
+    Searches DuckDuckGo for PM interview question pages for the given company.
+    Returns a list of (url, company) tuples ready for scrape_and_add_questions().
+    """
+    query = f"{company} product manager interview questions"
+    print(f"Searching web for: {query}")
+    skip_domains = ("linkedin.com", "glassdoor.com", "reddit.com/login", "quora.com/session")
+    results = []
+    try:
+        with DDGS() as ddgs:
+            for r in ddgs.text(query, max_results=num_results * 2):
+                url = r.get("href", "")
+                if not url or url.endswith(".pdf"):
+                    continue
+                if any(d in url for d in skip_domains):
+                    continue
+                results.append((url, company))
+                if len(results) >= num_results:
+                    break
+    except Exception as e:
+        print(f"  Web search failed: {e}")
+    print(f"  Found {len(results)} URLs via search.")
+    return results
+
+
+def scrape_and_add_questions(urls_with_hints=None, company=None):
     """
     Scrapes PM interview questions from the given URLs and adds new ones to the repo.
-    urls_with_hints: list of (url, company_hint) tuples. Defaults to DEFAULT_URLS.
+    - urls_with_hints: list of (url, company_hint) tuples (optional)
+    - company: company name to search the web for URLs (optional)
+    Resolution order:
+      1. Both provided  → merge searched URLs + explicit URLs
+      2. Only URLs      → use those directly
+      3. Only company   → search web for URLs
+      4. Neither        → fall back to DEFAULT_URLS
     """
-    if urls_with_hints is None:
+    if urls_with_hints is not None and company is not None:
+        searched = search_for_urls(company)
+        urls_with_hints = searched + urls_with_hints
+    elif urls_with_hints is None and company is not None:
+        urls_with_hints = search_for_urls(company)
+    elif urls_with_hints is None:
         urls_with_hints = DEFAULT_URLS
 
     repo = load_repo()

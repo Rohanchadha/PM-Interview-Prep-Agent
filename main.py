@@ -1,5 +1,5 @@
+import argparse
 import os
-import sys
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -54,9 +54,15 @@ def run_daily_agent(dry_run=True):
     print("--- PM Interview Agent Completed ---")
 
 if __name__ == "__main__":
-    if "--scrape" in sys.argv:
-        scrape_and_add_questions()
+    parser = argparse.ArgumentParser(description="PM Interview Agent")
+    parser.add_argument("--scrape", action="store_true", help="Scrape interview questions")
+    parser.add_argument("--company", type=str, help="Company name to search for interview questions")
+    parser.add_argument("--urls", type=str, help="Comma-separated URLs to scrape directly")
+    parser.add_argument("--live", action="store_true", help="Send email (default is dry run)")
+    args = parser.parse_args()
+
+    if args.scrape:
+        urls = [(u.strip(), args.company or "Unknown") for u in args.urls.split(",")] if args.urls else None
+        scrape_and_add_questions(urls_with_hints=urls, company=args.company)
     else:
-        # Default to dry run unless --live flag is passed
-        is_live = "--live" in sys.argv
-        run_daily_agent(dry_run=not is_live)
+        run_daily_agent(dry_run=not args.live)

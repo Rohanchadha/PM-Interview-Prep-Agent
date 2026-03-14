@@ -16,10 +16,11 @@ A daily PM interview prep agent that scrapes real interview questions, generates
                                       [Mailer] ──SMTP──► Your inbox (HTML + PDF)
 ```
 
-1. Scrapes PM interview prep websites using Gemini to extract structured questions
-2. Picks a random unsolved question from the local JSON repository
-3. Generates a thorough, framework-based solution (CIRCLES, RCA, 3Cs, Porter's 5 Forces) using Gemini
-4. Emails the solution as rich HTML + PDF to your inbox
+1. Searches the web for PM interview question pages (via DuckDuckGo) or accepts URLs directly
+2. Scrapes those pages and uses Gemini to extract structured questions into a local JSON repo
+3. Picks a random unsolved question from the repo
+4. Generates a thorough, framework-based solution (CIRCLES, RCA, 3Cs, Porter's 5 Forces) using Gemini
+5. Emails the solution as rich HTML + PDF to your inbox
 
 ## Setup
 
@@ -45,6 +46,23 @@ SMTP_PASSWORD=your-16-char-app-password
 
 ### 3. Populate the Question Bank (first time only)
 
+Search the web by company name — the agent automatically finds and scrapes relevant pages:
+```bash
+python main.py --scrape --company "Google"
+python main.py --scrape --company "Meta"
+```
+
+Or provide URLs directly:
+```bash
+python main.py --scrape --urls "https://example.com/google-pm-questions,https://example2.com"
+```
+
+Or combine both (searched URLs + explicit URLs):
+```bash
+python main.py --scrape --company "Google" --urls "https://specific-page.com"
+```
+
+Or fall back to the built-in default URLs:
 ```bash
 python main.py --scrape
 ```
@@ -61,31 +79,40 @@ python main.py
 python main.py --live
 ```
 
-## Automate Daily Emails (macOS)
+## Automate Daily Emails (GitHub Actions)
 
-```bash
-crontab -e
-```
+The repo includes a GitHub Actions workflow (`.github/workflows/daily_pm_agent.yml`) that runs `python main.py --live` at 8:00 AM UTC every day and commits the updated `questions_repo.json` back to the repo to persist state between runs.
 
-```
-0 8 * * * cd /path/to/pm_agent && /usr/bin/python3 main.py --live >> /tmp/pm_agent.log 2>&1
-```
+**Setup:**
 
-Runs at 8:00 AM every day.
+1. Push the project to a GitHub repo
+2. Add these repository secrets under **Settings → Secrets and variables → Actions**:
+
+| Secret | Value |
+|--------|-------|
+| `GEMINI_API_KEY` | Your Gemini API key |
+| `USER_EMAIL` | Your email address |
+| `SMTP_USERNAME` | Gmail sender address |
+| `SMTP_PASSWORD` | Gmail App Password (16 chars) |
+
+3. The workflow fires automatically every day. To test it manually, go to **Actions → Daily PM Agent → Run workflow**.
 
 ## Project Structure
 
 ```
 pm_agent/
-├── main.py                  # Entry point
+├── main.py                          # Entry point (CLI flags: --scrape, --company, --urls, --live)
 ├── requirements.txt
+├── .github/
+│   └── workflows/
+│       └── daily_pm_agent.yml       # GitHub Actions cron workflow
 ├── data/
-│   └── questions_repo.json  # Local question bank
+│   └── questions_repo.json          # Local question bank
 └── src/
-    ├── researcher.py        # JSON repo read/write layer
-    ├── scraper.py           # Web scraping + Gemini extraction
-    ├── solver.py            # Question selection + Gemini solution generation
-    └── mailer.py            # HTML + PDF email via Gmail SMTP
+    ├── researcher.py                # JSON repo read/write layer
+    ├── scraper.py                   # Web search (DuckDuckGo) + scraping + Gemini extraction
+    ├── solver.py                    # Question selection + Gemini solution generation
+    └── mailer.py                    # HTML + PDF email via Gmail SMTP
 ```
 
 ## Question Schema
@@ -107,7 +134,9 @@ Categories: `Product Design`, `Metrics/Analytical`, `Strategy`, `Product Improve
 ## Tech Stack
 
 - **AI:** Google Gemini 2.5 Flash (`google-genai`)
+- **Web Search:** DuckDuckGo (`duckduckgo-search`) — no API key required
 - **Email:** Gmail SMTP (`smtplib`)
 - **PDF:** `fpdf2`
 - **Scraping:** `requests` + `BeautifulSoup`
 - **Config:** `python-dotenv`
+- **Automation:** GitHub Actions (`.github/workflows/daily_pm_agent.yml`)
