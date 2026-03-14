@@ -25,13 +25,40 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Fetch opted-in users from Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          python -c "
+          import requests, os
+          url = os.environ['SUPABASE_URL'] + '/rest/v1/profiles'
+          headers = {
+              'apikey': os.environ['SUPABASE_SERVICE_KEY'],
+              'Authorization': 'Bearer ' + os.environ['SUPABASE_SERVICE_KEY']
+          }
+          params = {'opted_in_daily_email': 'eq.true', 'select': 'email'}
+          r = requests.get(url, headers=headers, params=params)
+          r.raise_for_status()
+          users = r.json()
+          emails = ','.join([u['email'] for u in users if u.get('email')])
+          print(f'Found {len(users)} opted-in user(s)')
+          print(f'::add-mask::{emails}')
+          with open(os.environ['GITHUB_ENV'], 'a') as f:
+              f.write(f'OPTED_IN_EMAILS={emails}\n')
+          "
+
       - name: Run PM Agent
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          USER_EMAIL: ${{ secrets.USER_EMAIL }}
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-        run: python main.py --live
+        run: |
+          if [ -z "$OPTED_IN_EMAILS" ]; then
+            echo "No opted-in users found. Skipping email send."
+          else
+            python main.py --live --emails "$OPTED_IN_EMAILS"
+          fi
 
       - name: Persist solved state
         run: |
