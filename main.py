@@ -45,6 +45,7 @@ def run_daily_agent(dry_run=True, recipient_emails=None):
 
     # 3. Send email
     subject = f"Daily PM Question: {question['company']} - {question['category']}"
+    solution_md = f"## Question\n\n{question['question']}\n\n---\n\n{solution_md}"
 
     if dry_run:
         print("\n[DRY RUN] Email would be sent to:", ", ".join(emails))

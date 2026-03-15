@@ -45,18 +45,16 @@ def solve_question(question_obj):
         else:
             return solve_generic_question_template(q_text, company)
 
-    # Use LLM with specific frameworks
+    # Use LLM
     prompt = f"""
-    You are an expert Product Manager interview coach. 
+    You are an expert Product Manager interview coach.
     Solve the following interview question for {company} thoroughly.
-    
+
     Question: {q_text}
     Category: {category}
-    
+
     Guidelines:
-    - If it's a Design/Improvement question, use the CIRCLES framework.
-    - If it's a Metrics/Execution question, use Root Cause Analysis.
-    - If it's a Strategy question, use 3Cs or Porter's 5 Forces.
+    - Choose the most appropriate approach and structure for this question based on its type and context.
     - Provide a structured, professional, and insightful response in Markdown.
     - Include specific examples relevant to {company}.
     - Ensure the solution is thorough (at least 500 words).
@@ -75,7 +73,7 @@ def solve_question(question_obj):
 def solve_design_question_template(q, company):
     return f"""
 # [TEMPLATE] PM Interview Solution: {q}
-**Company:** {company} | **Category:** Product Design (Framework: CIRCLES)
+**Company:** {company} | **Category:** Product Design
 
 ## 1. Comprehend Situation
 - **Goal:** Increase engagement or revenue.
@@ -106,7 +104,7 @@ def solve_design_question_template(q, company):
 def solve_metrics_question_template(q, company):
     return f"""
 # [TEMPLATE] PM Interview Solution: {q}
-**Company:** {company} | **Category:** Metrics & Execution (Framework: RCA)
+**Company:** {company} | **Category:** Metrics & Execution
 
 ## 1. Clarification
 - Sudden drop or gradual? Local or global?
@@ -127,7 +125,7 @@ def solve_metrics_question_template(q, company):
 def solve_strategy_question_template(q, company):
     return f"""
 # [TEMPLATE] PM Interview Solution: {q}
-**Company:** {company} | **Category:** Strategy (Framework: 3Cs)
+**Company:** {company} | **Category:** Strategy
 
 ## 1. Company
 - Core strengths and vision.
