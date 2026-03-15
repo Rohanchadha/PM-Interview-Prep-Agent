@@ -64,7 +64,7 @@ def solve_question(question_obj):
     
     try:
         response = client.models.generate_content(
-            model="gemini-3-flash",
+            model="gemini-3-flash-preview",
             contents=prompt,
         )
         return response.text
