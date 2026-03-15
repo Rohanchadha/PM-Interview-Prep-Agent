@@ -240,13 +240,8 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-<<<<<<< Updated upstream
       "id": 46,
       "solved_on": "2026-03-14"
-=======
-      "id": 27,
-      "solved_on": null
->>>>>>> Stashed changes
     },
     {
       "question": "If you were to design an app for selling and buying antiques, how would you do it?",
@@ -569,7 +564,6 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-<<<<<<< Updated upstream
       "id": 86,
       "solved_on": null
     },
@@ -590,10 +584,6 @@
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
       "id": 88,
       "solved_on": "2026-03-15"
-=======
-      "id": 63,
-      "solved_on": null
->>>>>>> Stashed changes
     },
     {
       "question": "Given your understanding of Amazon\u2019s customer base, how would you prioritize features for a new product launch?",
