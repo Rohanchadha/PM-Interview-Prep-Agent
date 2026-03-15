@@ -127,183 +127,12 @@
       "solved_on": null
     },
     {
-      "question": "Tell me about yourself.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Easy",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 15,
-      "solved_on": null
-    },
-    {
-      "question": "Why Microsoft?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Easy",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 16,
-      "solved_on": null
-    },
-    {
-      "question": "Why do you want to do product management?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Easy",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 17,
-      "solved_on": null
-    },
-    {
-      "question": "Why do you want this job, and what can you bring that we don't already have?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 18,
-      "solved_on": null
-    },
-    {
-      "question": "Explain the PM position to someone who doesn't get it.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 19,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time when you had to work through a problem with a teammate.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 20,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time when you faced conflict within a team and how you dealt with it.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 21,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a product you led from idea to launch.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 22,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about the most challenging product you\u2019ve worked on.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 23,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you failed.",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 24,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about big-budget projects you\u2019ve worked on. How do you ensure that you work within budget?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 25,
-      "solved_on": null
-    },
-    {
-      "question": "What\u2019s the biggest risk you\u2019ve taken in managing a project?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 26,
-      "solved_on": null
-    },
-    {
-      "question": "How do you know what your customers want?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 27,
-      "solved_on": null
-    },
-    {
-      "question": "How do you get people to agree with your point of view?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 28,
-      "solved_on": null
-    },
-    {
-      "question": "How can a product manager influence without being authoritative?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 29,
-      "solved_on": null
-    },
-    {
-      "question": "If you want to get something built, how will you influence the developers to build it and the senior leadership to agree with this idea?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 30,
-      "solved_on": null
-    },
-    {
-      "question": "In working with teams, what is an achievement that you are most proud of?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 31,
-      "solved_on": null
-    },
-    {
-      "question": "How do you manage a project where you need to scale up and then scale down frequently?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 32,
-      "solved_on": null
-    },
-    {
-      "question": "How do you keep track of multiple tasks?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 33,
-      "solved_on": null
-    },
-    {
       "question": "Design an elevator system.",
       "company": "Microsoft",
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 34,
+      "id": 15,
       "solved_on": null
     },
     {
@@ -312,7 +141,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 35,
+      "id": 16,
       "solved_on": null
     },
     {
@@ -321,7 +150,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 36,
+      "id": 17,
       "solved_on": null
     },
     {
@@ -330,7 +159,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 37,
+      "id": 18,
       "solved_on": null
     },
     {
@@ -339,7 +168,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 38,
+      "id": 19,
       "solved_on": null
     },
     {
@@ -348,7 +177,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 39,
+      "id": 20,
       "solved_on": null
     },
     {
@@ -357,7 +186,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 40,
+      "id": 21,
       "solved_on": null
     },
     {
@@ -366,7 +195,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 41,
+      "id": 22,
       "solved_on": null
     },
     {
@@ -375,7 +204,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 42,
+      "id": 23,
       "solved_on": null
     },
     {
@@ -384,7 +213,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 43,
+      "id": 24,
       "solved_on": null
     },
     {
@@ -393,7 +222,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 44,
+      "id": 25,
       "solved_on": null
     },
     {
@@ -402,7 +231,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 45,
+      "id": 26,
       "solved_on": null
     },
     {
@@ -411,8 +240,13 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
+<<<<<<< Updated upstream
       "id": 46,
       "solved_on": "2026-03-14"
+=======
+      "id": 27,
+      "solved_on": null
+>>>>>>> Stashed changes
     },
     {
       "question": "If you were to design an app for selling and buying antiques, how would you do it?",
@@ -420,7 +254,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 47,
+      "id": 28,
       "solved_on": null
     },
     {
@@ -429,7 +263,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 48,
+      "id": 29,
       "solved_on": null
     },
     {
@@ -438,7 +272,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 49,
+      "id": 30,
       "solved_on": null
     },
     {
@@ -447,7 +281,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 50,
+      "id": 31,
       "solved_on": null
     },
     {
@@ -456,7 +290,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 51,
+      "id": 32,
       "solved_on": null
     },
     {
@@ -465,7 +299,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 52,
+      "id": 33,
       "solved_on": "2026-03-14"
     },
     {
@@ -474,7 +308,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 53,
+      "id": 34,
       "solved_on": null
     },
     {
@@ -483,7 +317,7 @@
       "category": "Product Improvement",
       "difficulty": "Hard",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 54,
+      "id": 35,
       "solved_on": null
     },
     {
@@ -492,7 +326,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 55,
+      "id": 36,
       "solved_on": null
     },
     {
@@ -501,7 +335,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 56,
+      "id": 37,
       "solved_on": null
     },
     {
@@ -510,7 +344,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 57,
+      "id": 38,
       "solved_on": null
     },
     {
@@ -519,7 +353,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 58,
+      "id": 39,
       "solved_on": null
     },
     {
@@ -528,7 +362,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 59,
+      "id": 40,
       "solved_on": null
     },
     {
@@ -537,7 +371,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 60,
+      "id": 41,
       "solved_on": null
     },
     {
@@ -546,7 +380,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 61,
+      "id": 42,
       "solved_on": null
     },
     {
@@ -555,7 +389,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 62,
+      "id": 43,
       "solved_on": null
     },
     {
@@ -564,25 +398,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 63,
-      "solved_on": null
-    },
-    {
-      "question": "How would you explain Cloud to your grandmother?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 64,
-      "solved_on": null
-    },
-    {
-      "question": "How would you explain recursion to somebody who is not technical?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 65,
+      "id": 44,
       "solved_on": null
     },
     {
@@ -591,7 +407,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 66,
+      "id": 45,
       "solved_on": null
     },
     {
@@ -600,7 +416,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 67,
+      "id": 46,
       "solved_on": null
     },
     {
@@ -609,16 +425,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 68,
-      "solved_on": null
-    },
-    {
-      "question": "Describe a time when you had to make a difficult decision based on incomplete data. How did you approach the situation?",
-      "company": "Microsoft",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 69,
+      "id": 47,
       "solved_on": null
     },
     {
@@ -627,7 +434,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 70,
+      "id": 48,
       "solved_on": null
     },
     {
@@ -636,7 +443,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 71,
+      "id": 49,
       "solved_on": null
     },
     {
@@ -645,7 +452,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 72,
+      "id": 50,
       "solved_on": null
     },
     {
@@ -654,7 +461,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 73,
+      "id": 51,
       "solved_on": null
     },
     {
@@ -663,7 +470,7 @@
       "category": "Estimation",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 74,
+      "id": 52,
       "solved_on": "2026-03-14"
     },
     {
@@ -672,7 +479,7 @@
       "category": "Estimation",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 75,
+      "id": 53,
       "solved_on": null
     },
     {
@@ -681,7 +488,7 @@
       "category": "Estimation",
       "difficulty": "Hard",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 76,
+      "id": 54,
       "solved_on": null
     },
     {
@@ -690,7 +497,7 @@
       "category": "Estimation",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 77,
+      "id": 55,
       "solved_on": null
     },
     {
@@ -699,7 +506,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 78,
+      "id": 56,
       "solved_on": null
     },
     {
@@ -708,7 +515,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 79,
+      "id": 57,
       "solved_on": null
     },
     {
@@ -717,7 +524,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview#questions",
-      "id": 80,
+      "id": 58,
       "solved_on": null
     },
     {
@@ -726,7 +533,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/",
-      "id": 81,
+      "id": 59,
       "solved_on": null
     },
     {
@@ -735,7 +542,7 @@
       "category": "Estimation",
       "difficulty": "Hard",
       "source": "https://www.productmanagementexercises.com/",
-      "id": 82,
+      "id": 60,
       "solved_on": null
     },
     {
@@ -744,7 +551,7 @@
       "category": "Product Design",
       "difficulty": "Easy",
       "source": "https://www.productmanagementexercises.com/",
-      "id": 83,
+      "id": 61,
       "solved_on": null
     },
     {
@@ -753,16 +560,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/",
-      "id": 84,
-      "solved_on": null
-    },
-    {
-      "question": "How do you say no to feature ideas or requests?",
-      "company": "Multiple",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.productmanagementexercises.com/",
-      "id": 85,
+      "id": 62,
       "solved_on": null
     },
     {
@@ -771,6 +569,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
+<<<<<<< Updated upstream
       "id": 86,
       "solved_on": null
     },
@@ -791,6 +590,10 @@
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
       "id": 88,
       "solved_on": "2026-03-15"
+=======
+      "id": 63,
+      "solved_on": null
+>>>>>>> Stashed changes
     },
     {
       "question": "Given your understanding of Amazon\u2019s customer base, how would you prioritize features for a new product launch?",
@@ -798,16 +601,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 89,
-      "solved_on": null
-    },
-    {
-      "question": "Suppose there is a conflict between engineering and marketing teams on a product feature, how would you resolve it?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 90,
+      "id": 64,
       "solved_on": null
     },
     {
@@ -816,16 +610,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 91,
-      "solved_on": null
-    },
-    {
-      "question": "Describe a scenario where you led a cross-functional team in launching a product.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 92,
+      "id": 65,
       "solved_on": null
     },
     {
@@ -834,7 +619,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 93,
+      "id": 66,
       "solved_on": null
     },
     {
@@ -843,16 +628,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 94,
-      "solved_on": null
-    },
-    {
-      "question": "Can you describe a time when you successfully managed a product backlog?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 95,
+      "id": 67,
       "solved_on": null
     },
     {
@@ -861,34 +637,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 96,
-      "solved_on": null
-    },
-    {
-      "question": "How do you stay updated with market trends and consumer needs relevant to Amazon\u2019s offerings?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Easy",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 97,
-      "solved_on": null
-    },
-    {
-      "question": "With respect to Amazon\u2019s global reach, can you talk about an experience managing a product in different markets?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 98,
-      "solved_on": null
-    },
-    {
-      "question": "Discuss a time when you had to pivot a product strategy due to unforeseen circumstances.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 99,
+      "id": 68,
       "solved_on": null
     },
     {
@@ -897,7 +646,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 100,
+      "id": 69,
       "solved_on": null
     },
     {
@@ -906,7 +655,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 101,
+      "id": 70,
       "solved_on": null
     },
     {
@@ -915,7 +664,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 102,
+      "id": 71,
       "solved_on": null
     },
     {
@@ -924,7 +673,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 103,
+      "id": 72,
       "solved_on": null
     },
     {
@@ -933,16 +682,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 104,
-      "solved_on": null
-    },
-    {
-      "question": "Talk about a time when you faced a significant product-related challenge and how you overcame it.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 105,
+      "id": 73,
       "solved_on": null
     },
     {
@@ -951,16 +691,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 106,
-      "solved_on": null
-    },
-    {
-      "question": "Can you share an example where you had to manage a trade-off between product functionality and cost?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://interviewprep.org/amazon-product-manager-interview-questions/",
-      "id": 107,
+      "id": 74,
       "solved_on": null
     },
     {
@@ -969,7 +700,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 108,
+      "id": 75,
       "solved_on": null
     },
     {
@@ -978,7 +709,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 109,
+      "id": 76,
       "solved_on": null
     },
     {
@@ -987,7 +718,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 110,
+      "id": 77,
       "solved_on": "2026-03-14"
     },
     {
@@ -996,7 +727,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 111,
+      "id": 78,
       "solved_on": null
     },
     {
@@ -1005,7 +736,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 112,
+      "id": 79,
       "solved_on": null
     },
     {
@@ -1014,7 +745,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 113,
+      "id": 80,
       "solved_on": null
     },
     {
@@ -1023,7 +754,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 114,
+      "id": 81,
       "solved_on": null
     },
     {
@@ -1032,7 +763,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 115,
+      "id": 82,
       "solved_on": null
     },
     {
@@ -1041,7 +772,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 116,
+      "id": 83,
       "solved_on": null
     },
     {
@@ -1050,7 +781,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 117,
+      "id": 84,
       "solved_on": null
     },
     {
@@ -1059,16 +790,7 @@
       "category": "Estimation",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 118,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out. Who did you talk with and what information proved most valuable? How did you use that information to help solve the problem?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 119,
+      "id": 85,
       "solved_on": null
     },
     {
@@ -1077,7 +799,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 120,
+      "id": 86,
       "solved_on": null
     },
     {
@@ -1086,16 +808,7 @@
       "category": "Product Design",
       "difficulty": "Medium",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 121,
-      "solved_on": null
-    },
-    {
-      "question": "Why should Amazon not hire you?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 122,
+      "id": 87,
       "solved_on": null
     },
     {
@@ -1104,25 +817,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.productmanagementexercises.com/interview-questions/Amazon",
-      "id": 123,
-      "solved_on": null
-    },
-    {
-      "question": "Walk me through a product you\u2019ve built and launched.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 124,
-      "solved_on": null
-    },
-    {
-      "question": "How do you prioritize features when stakeholders disagree?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 125,
+      "id": 88,
       "solved_on": null
     },
     {
@@ -1131,7 +826,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 126,
+      "id": 89,
       "solved_on": null
     },
     {
@@ -1140,7 +835,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 127,
+      "id": 90,
       "solved_on": null
     },
     {
@@ -1149,7 +844,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 128,
+      "id": 91,
       "solved_on": null
     },
     {
@@ -1158,7 +853,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 129,
+      "id": 92,
       "solved_on": null
     },
     {
@@ -1167,7 +862,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 130,
+      "id": 93,
       "solved_on": null
     },
     {
@@ -1176,7 +871,7 @@
       "category": "Estimation",
       "difficulty": "Hard",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 131,
+      "id": 94,
       "solved_on": null
     },
     {
@@ -1185,7 +880,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 132,
+      "id": 95,
       "solved_on": null
     },
     {
@@ -1194,7 +889,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 133,
+      "id": 96,
       "solved_on": null
     },
     {
@@ -1203,7 +898,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Hard",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 134,
+      "id": 97,
       "solved_on": null
     },
     {
@@ -1212,169 +907,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 135,
-      "solved_on": null
-    },
-    {
-      "question": "Why do you want to work at Amazon, and what makes you a good fit?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Easy",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 136,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you made a difficult prioritization decision.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 137,
-      "solved_on": null
-    },
-    {
-      "question": "Describe a time you disagreed with a stakeholder. How did you resolve it?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 138,
-      "solved_on": null
-    },
-    {
-      "question": "Talk about a time you failed and what you learned from it.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 139,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you demonstrated ownership beyond your role.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 140,
-      "solved_on": null
-    },
-    {
-      "question": "What would your current manager say about you? What constructive criticisms might he give?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 141,
-      "solved_on": null
-    },
-    {
-      "question": "What are your three biggest strengths and weaknesses you have identified in yourself?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.interviewquery.com/interview-guides/amazon-product-manager",
-      "id": 142,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time when you went above and beyond to meet a customer\u2019s needs.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 143,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time when you took full responsibility for a product\u2019s success or failure.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 144,
-      "solved_on": null
-    },
-    {
-      "question": "Describe a project where you set a goal and met it. What steps did you take to ensure success?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 145,
-      "solved_on": null
-    },
-    {
-      "question": "Can you give an example of when you simplified a complex problem for your team?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 146,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time when you helped someone on your team grow in their role.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 147,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you had to dive deep into data to solve a problem.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 148,
-      "solved_on": null
-    },
-    {
-      "question": "Describe a situation where you disagreed with a decision but committed to it for the team\u2019s success.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 149,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time when you helped improve your team\u2019s environment or culture.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 150,
-      "solved_on": null
-    },
-    {
-      "question": "Give an example of a time when you delivered results with limited resources.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 151,
-      "solved_on": null
-    },
-    {
-      "question": "Can you share an example of a project where you set a target and achieved it? What did you do to ensure success?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 152,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you demonstrated customer obsession in a project.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 153,
+      "id": 98,
       "solved_on": null
     },
     {
@@ -1383,7 +916,7 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 154,
+      "id": 99,
       "solved_on": null
     },
     {
@@ -1392,7 +925,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 155,
+      "id": 100,
       "solved_on": null
     },
     {
@@ -1401,7 +934,7 @@
       "category": "Metrics/Analytical",
       "difficulty": "Medium",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 156,
+      "id": 101,
       "solved_on": null
     },
     {
@@ -1410,52 +943,7 @@
       "category": "Product Improvement",
       "difficulty": "Hard",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 157,
-      "solved_on": null
-    },
-    {
-      "question": "Describe a product design challenge you\u2019ve faced.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 158,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you made a decision that affected multiple teams.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 159,
-      "solved_on": null
-    },
-    {
-      "question": "How do you ensure your decisions are based on data?",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 160,
-      "solved_on": null
-    },
-    {
-      "question": "Tell me about a time you demonstrated customer obsession.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 161,
-      "solved_on": null
-    },
-    {
-      "question": "Give an example of when you had to make a calculated risk in a product decision.",
-      "company": "Amazon",
-      "category": "Behavioral",
-      "difficulty": "Medium",
-      "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 162,
+      "id": 102,
       "solved_on": null
     },
     {
@@ -1464,7 +952,7 @@
       "category": "Product Improvement",
       "difficulty": "Hard",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 163,
+      "id": 103,
       "solved_on": null
     },
     {
@@ -1473,7 +961,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 164,
+      "id": 104,
       "solved_on": null
     },
     {
@@ -1482,7 +970,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.joinleland.com/library/a/amazon-product-manager-interview-process",
-      "id": 165,
+      "id": 105,
       "solved_on": null
     },
     {
@@ -1491,7 +979,7 @@
       "category": "Strategy",
       "difficulty": "Medium",
       "source": "https://www.zhihu.com/tardis/bd/art/427082716",
-      "id": 166,
+      "id": 106,
       "solved_on": null
     },
     {
@@ -1500,7 +988,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.zhihu.com/tardis/bd/art/427082716",
-      "id": 167,
+      "id": 107,
       "solved_on": null
     },
     {
@@ -1509,7 +997,7 @@
       "category": "Strategy",
       "difficulty": "Hard",
       "source": "https://www.zhihu.com/tardis/bd/art/427082716",
-      "id": 168,
+      "id": 108,
       "solved_on": null
     },
     {
@@ -1518,7 +1006,7 @@
       "category": "Product Design",
       "difficulty": "Hard",
       "source": "https://www.zhihu.com/tardis/bd/art/427082716",
-      "id": 169,
+      "id": 109,
       "solved_on": null
     },
     {
@@ -1527,8 +1015,98 @@
       "category": "Product Improvement",
       "difficulty": "Medium",
       "source": "https://www.zhihu.com/tardis/bd/art/427082716",
-      "id": 170,
+      "id": 110,
       "solved_on": null
+    },
+    {
+      "id": 111,
+      "question": "How would you implement the WhatsApp seen status - \"show to all except\" and \"hide from all except\"?",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 112,
+      "question": "What Microsoft product do you use the most? What improvement would you want to make in it?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 113,
+      "question": "Design a TV remote for the elderly.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 114,
+      "question": "Develop a strategy/plan for agriculture development in India using tech.",
+      "company": "Microsoft",
+      "category": "Strategy/Product Sense",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 115,
+      "question": "Design an air traffic control schedule for an airport with one landing strip.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 116,
+      "question": "Design a social media app for the terminally ill.",
+      "company": "Microsoft",
+      "category": "Product Design",
+      "difficulty": "Hard",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 117,
+      "question": "What improvement would you want to make on Instagram?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 118,
+      "question": "Describe a challenging product decision and how you approached it.",
+      "company": "Microsoft",
+      "category": "Product Sense",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 119,
+      "question": "What do you think is better - Microsoft Word or Google Docs? Why?",
+      "company": "Microsoft",
+      "category": "Product Comparison",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
+    },
+    {
+      "id": 120,
+      "question": "What is your favorite product? How would you make it better?",
+      "company": "Microsoft",
+      "category": "Product Improvement",
+      "difficulty": "Medium",
+      "solved_on": null,
+      "source": "Microsoft Interview"
     }
   ]
 }
